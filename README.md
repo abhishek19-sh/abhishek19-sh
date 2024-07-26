@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+  <img https://giphy.com/clips/computer-ai-typing-WlOsGtKFnAFWum5HyK/>
+</div>
+
 <!--
 **abhishek19-sh/abhishek19-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
